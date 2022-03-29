@@ -1,0 +1,20 @@
+{
+  "name": "puzzle2web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browserify ./src/index.js > ./dist/boundle.js",
+    "rserver": "http-server -p 8064"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "http-server": "^13.0.2",
+    "node-windows": "^1.0.0-beta.6",
+    "nodemailer": "^6.6.3"
+  }
+}
