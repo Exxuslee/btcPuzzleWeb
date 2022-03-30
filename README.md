@@ -15,13 +15,13 @@
 
 ## Starting
 To make http:
-```
+`
 npm run start
-```
+`
 To start server, just run:
-```
+`
 npm run rserver
-```
+`
 
 ## Features
 1. Одна страница - один поток
