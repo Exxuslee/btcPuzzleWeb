@@ -3,11 +3,8 @@
 <p align="center">
     <img alt="logo" title="Logo" src="https://github.com/Exxuslee/btcPuzzleWeb/blob/master/btcPuzzleWeb.png">
 </p>
-<p>
-   <a href="">
-    <img alt="GitHub" src="https://img.shields.io/github/license/exxuslee/btcPuzzleWeb">
-  </a>
-</p>
+![GitHub](https://img.shields.io/github/license/exxuslee/btcPuzzleWeb)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Exxuslee/btcPuzzleWeb)
 
 **Скрипт поиска пазла биткоина №64**
 
